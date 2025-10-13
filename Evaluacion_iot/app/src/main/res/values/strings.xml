@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Evaluacion_iot</string>
+    <string name="logo_description">Logo de la empresa</string>
+    <string name="go_to_second_screen_button">Ir a la segunda pantalla</string>
+    <string name="inicio_de_sesion">Inicio de Sesión</string>
+    <string name="Nombre">Nombre de usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar_usuario">Ingresar</string>
+    <string name="registrar_usuario">Registrar</string>
+    <string name="logo">Logo</string>
+    <string name="bienvenidos_usuarios">Bienvenidos Usuarios</string>
+    <string name="olvido_contrasena">¿Olvidaste tu contraseña?</string>
+    <string name="Nombre_log">Nombre de usuario</string>
+    <string name="ingresar_usuariob">Ingresar</string>
+    <string name="nuevo_usuario">Registrar usuario</string>
+
+</resources>
